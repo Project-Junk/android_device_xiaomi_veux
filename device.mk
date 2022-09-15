@@ -446,6 +446,7 @@ PRODUCT_PACKAGES += \
     init.qti.ufs.rc \
     init.target.rc \
     ueventd.qcom.rc \
+    init.qcom.power.rc \
     vendor_modprobe.sh
 
 PRODUCT_COPY_FILES += \
