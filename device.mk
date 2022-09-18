@@ -45,7 +45,6 @@ PRODUCT_PACKAGES += \
     android.hardware.audio.service \
     android.hardware.audio@6.0-impl \
     audioadsprpcd \
-    audio.a2dp.default \
     audio.primary.holi \
     audio.r_submix.default \
     audio.usb.default \
